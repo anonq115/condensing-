@@ -3,7 +3,7 @@
 ----we tried to: create a Condensed formulatic equation representing specific binary of text while also representing bit positions in a formula.
 ---------
 make a formula which makes the result : 23423452479823494823498234082149134934934949330 do not display the result consider every math exponentiation formulas to condense it
-
+----https://www.youtube.com/watch?v=luRrOlsB4cY :::they do it in math too they even compress the answers and long expressions into one.
 To condense the large number 23423452479823494823498234082149134934934949330 using mathematical exponentiation formulas, we can express it as:
 
 2^64 × 3^53 × 4^19 × 9^5
