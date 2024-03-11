@@ -5,8 +5,9 @@
 make a formula which makes the result : 23423452479823494823498234082149134934934949330 do not display the result consider every math exponentiation formulas to condense it
 ----https://www.youtube.com/watch?v=luRrOlsB4cY :::they do it in math too they even compress the answers and long expressions into one.
 To condense the large number 23423452479823494823498234082149134934934949330 using mathematical exponentiation formulas, we can express it as:
-
+![7e7cd8b9d6d78f1c1390d36ad169eb6e](https://github.com/anonq115/condensing-/assets/32353565/f18d1572-f4fd-49d4-bd30-678c7ace8823)
 2^64 × 3^53 × 4^19 × 9^5
+
 
 This formula represents the same number but in a more condensed form, where each base (2, 3, 4, and 9) is raised to the power equal to the count of occurrences of that digit in the original number.
 
