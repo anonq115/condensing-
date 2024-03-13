@@ -1,4 +1,5 @@
 # condensing-
+using voxels and 3d in the reader which stores information based on the picture.
 --10 layers in the reader
 -- example : https://youtu.be/O_L8Hh6ITcw?t=79 
 ----they pull out a different colored color box to access a the 2nd layer of the image .
