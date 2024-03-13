@@ -2,7 +2,7 @@
 --10 layers in the reader
 -- example : https://youtu.be/O_L8Hh6ITcw?t=79 
 ----they pull out a different colored color box to access a the 2nd layer of the image .
-
+---https://www.youtube.com/watch?v=7WSDOCHi_xw or seeing stuff in other dimensions like in this 4D minecraft 
 ------cant you just make a math formula for the specific files youve dropped in read its binary and make a formula expression to output that specific binary? 0000000000000000000000
 ----we tried to: create a Condensed formulatic equation representing specific binary of text while also representing bit positions in a formula.
 ---------
