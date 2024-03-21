@@ -1,4 +1,11 @@
 # condensing-
+----------------what if the image you stored 50 gigs was obviously still 250 px by 250 px hsl accounted for then that unique picture pattern 
+with your files are then read by a camera read and rendered by the decompressed into 3d voxels which then reveal your files, its a whole new system of zeroes and ones 
+which is done by the gpu cores parallel the gpu cores will decode the unique pattern made and also account the hsl() and opacity , the gpu will decode the 2d image 250px by 250px then spit out the files....
+
+
+
+
 using voxels and 3d in the reader which stores information based on the picture.
 --10 layers in the reader
 -- example : https://youtu.be/O_L8Hh6ITcw?t=79 
