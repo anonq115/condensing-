@@ -1,4 +1,5 @@
 # condensing-
+----have a camera keep reading it and reading it and then display the files in other formats perhaps more efficient like gaussian splatting? 
 ----why can't i stream data instead of trying to store it in my storage? like say i scan an image with has 50 gigs worth of files then that information just keeps getting read by the camera without the user having to read or buy more storage.. it will act like ram as long as its being read by the camera.
 
 are their any papers that have explored something like or similar to this? 
