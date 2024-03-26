@@ -1,4 +1,6 @@
 # condensing-
+--------what i want is the image file size and the rather than embedding shit on the image which will increase its size i want to represent our data graphically using the graphics only like everything our data is all their and then feed it to the gpu which then will reconstruct the image in 3d voxel slices their the binary is located 50gb in size in these tiny boxes then the gpu carefully recontructs >>reads then spits out the files and then pops and only focuses on the new never looks back like the snake game but the snake is going running through all the voxels carefully 1gb  
+refinement iteration number 8? after establishing a stronger foundation in computation and gpu basis of understanding.
 --------the information is their reconstructed and then read outputted and then it focuses on the data that hasnt been read yet pops the the data that has.. no need to keep reading it
 ----have a camera keep reading it and reading it and then display the files in other formats perhaps more efficient like gaussian splatting? 
 ----why can't i stream data instead of trying to store it in my storage? like say i scan an image with has 50 gigs worth of files then that information just keeps getting read by the camera without the user having to read or buy more storage.. it will act like ram as long as its being read by the camera.
